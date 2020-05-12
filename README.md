@@ -1,2 +1,2 @@
 # vminut
-very minimal unit tests
+Very MINimal Unit Tests (for C++)
